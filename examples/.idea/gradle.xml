@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/architectureComponentsExample" />
+            <option value="$PROJECT_DIR$/encryptionExample" />
+            <option value="$PROJECT_DIR$/gridViewExample" />
+            <option value="$PROJECT_DIR$/introExample" />
+            <option value="$PROJECT_DIR$/jsonExample" />
+            <option value="$PROJECT_DIR$/kotlinExample" />
+            <option value="$PROJECT_DIR$/migrationExample" />
+            <option value="$PROJECT_DIR$/moduleExample" />
+            <option value="$PROJECT_DIR$/moduleExample/app" />
+            <option value="$PROJECT_DIR$/moduleExample/library" />
+            <option value="$PROJECT_DIR$/multiprocessExample" />
+            <option value="$PROJECT_DIR$/newsreaderExample" />
+            <option value="$PROJECT_DIR$/objectServerExample" />
+            <option value="$PROJECT_DIR$/rxJavaExample" />
+            <option value="$PROJECT_DIR$/secureTokenAndroidKeyStore" />
+            <option value="$PROJECT_DIR$/threadExample" />
+            <option value="$PROJECT_DIR$/unitTestExample" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
